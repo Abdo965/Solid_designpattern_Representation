@@ -100,9 +100,8 @@ weather.notify_observers()
 ```
 Solid_designpattern_Representation/
 │
-├── solid/                      # Python code for SOLID principles
-├── design_patterns/           # Python implementations of patterns
-├── architecture_examples/     # MVC, MVT, MVP models
+├── solid-->S,O,L,I,D .py                   # Python code for SOLID principles
+├── design_patterns       # Python implementations of patterns
 ├── Solid_designpattern_textdriven_presentation.pdf
 └── README.md                  # Project Overview
 ```
