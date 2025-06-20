@@ -102,7 +102,6 @@ Solid_designpattern_Representation/
 │
 ├── solid/                      # Python code for SOLID principles
 ├── design_patterns/           # Python implementations of patterns
-├── tests/                     # TDD Unit Tests
 ├── architecture_examples/     # MVC, MVT, MVP models
 ├── Solid_designpattern_textdriven_presentation.pdf
 └── README.md                  # Project Overview
